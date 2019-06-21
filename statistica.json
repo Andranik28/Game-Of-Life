@@ -1,0 +1,36 @@
+{
+   "grass": {
+      "count": 58,
+      "created": 0,
+      "wasEaten": 45,
+      "multiplyed": 36
+   },
+   "grassEater": {
+      "count": 2,
+      "died": 0,
+      "created": 0,
+      "multiplyed": 0,
+      "eated": 21,
+      "wasEaten": 29
+   },
+   "gishatich": {
+      "count": 5,
+      "died": 4,
+      "created": 5,
+      "multiplyed": 10,
+      "eated": 10,
+      "wasEaten": 0
+   },
+   "creater": {
+      "count": 2,
+      "died": 0,
+      "creatingPower": 45
+   },
+   "amenaker": {
+      "count": 6,
+      "died": 6,
+      "created": 0,
+      "multiplyed": 12,
+      "eated": 45
+   }
+}
